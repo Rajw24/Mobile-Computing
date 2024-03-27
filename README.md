@@ -1,1 +1,1 @@
-#Mobile computing practicals: Sem 6
+# Mobile computing practicals: Sem 6
