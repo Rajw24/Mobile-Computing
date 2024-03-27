@@ -1,0 +1,7 @@
+com.notification.man.test.app-androidTest-0 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\generated\res\resValues\androidTest\debug
+com.notification.man.test.app-androidTest-1 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\generated\res\rs\androidTest\debug
+com.notification.man.test.app-mergeDebugAndroidTestResources-2 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.notification.man.test.app-mergeDebugAndroidTestResources-3 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.notification.man.test.app-merged_res-4 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\merged_res\debugAndroidTest
+com.notification.man.test.app-androidTest-5 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\androidTest\res
+com.notification.man.test.app-androidTestDebug-6 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\androidTestDebug\res

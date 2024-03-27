@@ -1,0 +1,6 @@
+com.yassineabou.calculator.test.app-core-1.5.0-0 C:\Users\swarn\.gradle\caches\transforms-3\51e8cd73469843628680b3dd26237ac8\transformed\core-1.5.0\res
+com.yassineabou.calculator.test.app-annotation-experimental-1.3.0-1 C:\Users\swarn\.gradle\caches\transforms-3\bc96c555c4e27d40d19a111304090700\transformed\annotation-experimental-1.3.0\res
+com.yassineabou.calculator.test.app-androidTest-2 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No 3 - Income taxloan EMI calculator\app\build\generated\res\resValues\androidTest\debug
+com.yassineabou.calculator.test.app-mergeDebugAndroidTestResources-3 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No 3 - Income taxloan EMI calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.yassineabou.calculator.test.app-mergeDebugAndroidTestResources-4 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No 3 - Income taxloan EMI calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.yassineabou.calculator.test.app-merged_res-5 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No 3 - Income taxloan EMI calculator\app\build\intermediates\merged_res\debugAndroidTest

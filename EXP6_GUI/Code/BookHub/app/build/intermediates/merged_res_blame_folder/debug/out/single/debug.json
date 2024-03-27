@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xhdpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxhdpi_book_app_icon.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxhdpi/book_app_icon.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_activity_splash_screen2.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/activity_splash_screen2.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xhdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-mdpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xhdpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-mdpi_book_app_icon.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-mdpi/book_app_icon.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xxhdpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi_default_book_cover.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-anydpi/default_book_cover.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_activity_description.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/activity_description.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_fragment_favourites.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-hdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_favourites.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_favourites.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xhdpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_profile.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_profile.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_profile.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable_icons8_bookshelf.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable/icons8_bookshelf.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-hdpi_book_app_icon.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-hdpi/book_app_icon.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxxhdpi_book_app_icon_foreground.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxxhdpi/book_app_icon_foreground.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxhdpi_book_app_icon_foreground.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxhdpi/book_app_icon_foreground.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/font_playlist.ttf.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/font/playlist.ttf"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_fragment_profile.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-mdpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxxhdpi_book_app_icon_round.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxxhdpi/book_app_icon_round.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-mdpi_book_app_icon_foreground.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-mdpi/book_app_icon_foreground.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxhdpi_book_app_icon_round.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxhdpi/book_app_icon_round.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-mdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xhdpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-mdpi_book_app_icon_round.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-mdpi/book_app_icon_round.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xhdpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xhdpi/ic_profile.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xhdpi_book_app_icon_round.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xhdpi/book_app_icon_round.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xhdpi_book_app_icon.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xhdpi/book_app_icon.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_favourites.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-hdpi/ic_favourites.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable_gradient_bg.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xxhdpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_fragment_dashboard.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-anydpi-v26_book_app_icon_round.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-anydpi-v26/book_app_icon_round.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xxhdpi/ic_profile.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/font_raleway.ttf.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/font/raleway.ttf"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-mdpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xxhdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_dashboard.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_dashboard.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable_book_app_icon_web.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable/book_app_icon_web.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-hdpi_book_app_icon_round.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-hdpi/book_app_icon_round.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-hdpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-hdpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_theme.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_theme.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_fragment_about_app.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/fragment_about_app.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxxhdpi_book_app_icon.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxxhdpi/book_app_icon.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxhdpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/menu_menu_dashboard.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/menu/menu_dashboard.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-anydpi-v26_book_app_icon.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-anydpi-v26/book_app_icon.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_recycler_favorite_single_row.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/recycler_favorite_single_row.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xhdpi_book_app_icon_foreground.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xhdpi/book_app_icon_foreground.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_about.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_about.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_recycler_dashboard_single_row.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/recycler_dashboard_single_row.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_action_sort.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_action_sort.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-hdpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-xxxhdpi/ic_profile.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-xxhdpi_ic_about.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-xxhdpi/ic_about.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/menu_menu_drawer.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable_ic_ratings.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable/ic_ratings.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/xml_network_security_config.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-mdpi/ic_profile.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-hdpi_book_app_icon_foreground.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-hdpi/book_app_icon_foreground.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-mdpi_ic_theme.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-mdpi/ic_theme.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-anydpi-v21_ic_action_sort.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-anydpi-v21/ic_action_sort.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "me.arwazkhan.bookhub.app-pngs-18:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/layout_drawer_header.xml.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "me.arwazkhan.bookhub.app-merged_res-23:/drawable-hdpi_ic_profile.png.flat",
+        "source": "me.arwazkhan.bookhub.app-main-25:/drawable-hdpi/ic_profile.png"
+    }
+]

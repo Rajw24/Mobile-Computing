@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.arwazkhan.bookhub"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:8:5-41:19
+15        android:allowBackup="true"
+15-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.6.0] C:\Users\Raj\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:fullBackupContent="true"
+18-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:10:9-41
+19        android:icon="@mipmap/book_app_icon"
+19-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:11:9-45
+20        android:label="@string/app_name"
+20-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:12:9-41
+21        android:networkSecurityConfig="@xml/network_security_config"
+21-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:13:9-69
+22        android:resizeableActivity="false"
+22-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:14:9-43
+23        android:roundIcon="@mipmap/book_app_icon_round"
+23-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:15:9-56
+24        android:supportsRtl="true"
+24-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.BookHub" >
+26-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:17:9-45
+27        <activity
+27-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:19:9-23:54
+28            android:name="me.arwazkhan.bookhub.activity.DescriptionActivity"
+28-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:20:13-57
+29            android:configChanges="orientation|screenSize"
+29-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:22:13-59
+30            android:exported="true"
+30-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:21:13-36
+31            android:screenOrientation="fullSensor" />
+31-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:23:13-51
+32        <activity
+32-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:24:9-28:54
+33            android:name="me.arwazkhan.bookhub.activity.MainActivity"
+33-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:25:13-50
+34            android:configChanges="orientation|screenSize"
+34-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:26:13-59
+35            android:exported="true"
+35-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:27:13-36
+36            android:screenOrientation="fullSensor" />
+36-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:28:13-51
+37        <activity
+37-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:29:9-40:20
+38            android:name="me.arwazkhan.bookhub.activity.SplashScreen"
+38-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:30:13-50
+39            android:configChanges="orientation|screenSize"
+39-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:32:13-59
+40            android:exported="true"
+40-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:33:13-36
+41            android:screenOrientation="fullSensor"
+41-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:34:13-51
+42            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+42-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:31:13-69
+43            <intent-filter>
+43-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:35:13-39:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:36:17-69
+44-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:36:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:38:17-77
+46-->C:\Users\Raj\Desktop\BookHub\app\src\main\AndroidManifest.xml:38:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <provider
+50-->[com.squareup.picasso:picasso:2.71828] C:\Users\Raj\.gradle\caches\transforms-3\a18660387eb7297c50505cd5c03f6dad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+51            android:name="com.squareup.picasso.PicassoProvider"
+51-->[com.squareup.picasso:picasso:2.71828] C:\Users\Raj\.gradle\caches\transforms-3\a18660387eb7297c50505cd5c03f6dad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+52            android:authorities="me.arwazkhan.bookhub.com.squareup.picasso"
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\Raj\.gradle\caches\transforms-3\a18660387eb7297c50505cd5c03f6dad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+53            android:exported="false" />
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\Raj\.gradle\caches\transforms-3\a18660387eb7297c50505cd5c03f6dad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+54
+55        <service
+55-->[androidx.room:room-runtime:2.3.0] C:\Users\Raj\.gradle\caches\transforms-3\a7c8ae9a07fd620c2a64d7b2751884de\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+56            android:name="androidx.room.MultiInstanceInvalidationService"
+56-->[androidx.room:room-runtime:2.3.0] C:\Users\Raj\.gradle\caches\transforms-3\a7c8ae9a07fd620c2a64d7b2751884de\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+57            android:directBootAware="true"
+57-->[androidx.room:room-runtime:2.3.0] C:\Users\Raj\.gradle\caches\transforms-3\a7c8ae9a07fd620c2a64d7b2751884de\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+58            android:exported="false" />
+58-->[androidx.room:room-runtime:2.3.0] C:\Users\Raj\.gradle\caches\transforms-3\a7c8ae9a07fd620c2a64d7b2751884de\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+59    </application>
+60
+61</manifest>

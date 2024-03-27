@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="300dp"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="#55505C">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"/>
+
+        <Button
+            android:id="@+id/up"
+            android:text="Parent Folder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#5D737E" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/folder"
+        android:textColor="#FAF33E"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/dialoglist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="#FAF33E"
+        android:smoothScrollbar="true"
+        android:background="#7FC6A4"
+        android:fastScrollEnabled="false"
+        android:foregroundTint="#591a1e"
+        android:nestedScrollingEnabled="false"
+        android:touchscreenBlocksFocus="true"
+        android:divider="#1c1a20"
+        android:dividerHeight="0.5dp"
+        android:drawSelectorOnTop="false"
+        android:contextClickable="false"
+        android:clickable="false">
+    </ListView>
+
+</LinearLayout>
